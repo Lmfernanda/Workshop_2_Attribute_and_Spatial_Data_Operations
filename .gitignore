@@ -1,0 +1,86 @@
+# Byte-compiled / optimized / DLL files
+_pycache_/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+*.eggs/
+build/
+dist/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Notebook metadata
+*.ipynb-meta
+
+# Virtual environment
+.venv/
+
+# VS Code settings (if you use VS Code)
+.vscode/
+
+# PyCharm settings (if you use PyCharm)
+.idea/
+
+# pytest cache
+.cache/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# Cython debug symbols
+cython_debug/
+
+# Environments
+*.env
+*.venv
+env/
+venv/
+ENV/
+
+# Logs
+*.log
+
+# Local configuration files
+*.local
+*.config
+
+# Jupyter Notebook outputs
+*.html
+*.json
+
+# Data files
+*.csv
+*.tsv
+*.pkl
+*.db
+*.sqlite
+*.h5
+*.hdf5
+*.parquet
+*.feather
+
+# Results
+*.out
+*.txt
+
+# Sensitive files
+.secret
+*.key
+
+# Any other custom files you want ignored
+*.bak
